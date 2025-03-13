@@ -1,2 +1,20 @@
 repositories:
+    gnss_util_ros:
+        type: git
+        url: https://github.com/serene4uto/gnss_utils_ros.git
+        version: main
+    ntrip_client_ros:
+        type: git
+        url: https://github.com/serene4uto/ntrip_client_ros.git
+        version: main
+    um982_py_ros:
+        type: git
+        url: https://github.com/serene4uto/um982_py_ros.git
+        version: main
+    um982_ros_demo:
+        type: git
+        url: https://github.com/serene4uto/um982_ros_demo.git
+        version: main
+
+
     
